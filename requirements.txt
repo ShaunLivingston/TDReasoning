@@ -1,0 +1,5 @@
+# Direct dependencies; no historical environment lockfile was supplied.
+openai>=1.0,<3
+sentence-transformers>=2.2,<6
+SPARQLWrapper>=2.0,<3
+tqdm>=4.64,<5
